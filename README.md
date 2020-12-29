@@ -11,7 +11,7 @@ https://github.com/markbirds/Anime-Recommendation-System/blob/master/model/anime
 https://www.kaggle.com/CooperUnion/anime-recommendations-database
 ```
 
-### Sample (The app can't be uploaded to github because of its size.)
+### Sample
 
 ![sample](server/gif/sample.gif)
 
